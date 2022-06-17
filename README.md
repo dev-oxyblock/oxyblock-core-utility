@@ -17,4 +17,4 @@ If you want to view the documentation [Click here](https://core.oxyblock.xyz/doc
 
 ## ❤️ Donate
 
-If you appreciate my work and wish to donate, [PayPal](https://www.paypal.com/paypalme/HANUSTUDIOEIRL)
+If you appreciate this project and would like to make a donation, [PayPal](https://www.paypal.com/paypalme/HANUSTUDIOEIRL)
