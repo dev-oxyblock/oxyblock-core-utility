@@ -1,6 +1,6 @@
 /**
  * Oxyblock Core - Modern CSS Framework based on Oxyblock UI
- * Version: v0.2.0
+ * Version: v0.2.1
  * Website: https://core.oxyblock.xyz
  * License: MIT
  */
@@ -74,8 +74,8 @@ html:not([data-theme=dark]) .ob-dark-show,html[data-theme=dark] .ob-light-show{d
 .ob-z-auto{z-index:auto}
 .ob-flex-row{flex-direction:row}
 .ob-flex-row-reverse{flex-direction:row-reverse}
-.ob-flex-col{flex-direction:col}
-.ob-flex-col-reverse{flex-direction:col-reverse}
+.ob-flex-col{flex-direction:column}
+.ob-flex-col-reverse{flex-direction:column-reverse}
 .ob-flex-wrap{flex-wrap:wrap}
 .ob-flex-wrap-reverse{flex-wrap:wrap-reverse}
 .ob-flex-nowrap{flex-wrap:nowrap}
